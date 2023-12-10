@@ -4,7 +4,7 @@ Module 6 Challenge
 # NYT and TMDB Movie Reviews
 
 ## Overview
-This Python script is designed to retrieve movie reviews from The New York Times (NYT) API, extract relevant information, and complement the dataset by querying The Movie Database (TMDB) API for additional movie details. The collected data is then merged, cleaned, and exported to a CSV file for comprehensive analysis.
+This Python script is designed to retrieve movie reviews with the word "Love" in the headline from The New York Times (NYT) API, extract relevant information, and complement the dataset by querying The Movie Database (TMDB) API for additional movie details. The collected data is then merged, cleaned, and exported to a CSV file for comprehensive analysis.
 
 ## Dependencies
 Make sure you have the required Python libraries installed. You can do this by running the following command:
